@@ -1,4 +1,4 @@
-# AWS_Java_Extract_Key_Value
+# AWS_Textract_Java_Extract_Key_Value
 
 Extracting Key-Value Pairs from a Form Document
 
